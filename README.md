@@ -27,6 +27,7 @@ A simple and elegant **counter application** built with **React** and **Redux**,
 ---
 
 ## screen shot
-<img width="1918" height="865" alt="Screenshot 2025-07-12 202844" src="https://github.com/user-attachments/assets/a197ea1a-9566-431f-856d-3ffe332869e2" />
+
+<img width="1852" height="863" alt="Screenshot 2025-07-18 093221" src="https://github.com/user-attachments/assets/072d50b1-784b-4a25-8821-19ab414df1a8" />
 
 
